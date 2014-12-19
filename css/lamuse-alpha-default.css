@@ -1,0 +1,25 @@
+/**********************************************
+* 2.2. Zone branding
+**********************************************/
+  .zone-branding .region-branding .logo-img {
+    float: none;
+    text-align: center; }
+
+/**********************************************
+* 2.3. Zone menu
+**********************************************/
+.navigation {
+  margin: 0;
+  /* Main menu */
+  /* Secondary menu */ }
+      .navigation .primary-menu ul li a,
+      .navigation .second-menu ul li a {
+        display: inline-block; }
+      .navigation .primary-menu ul li.first a,
+      .navigation .second-menu ul li.first a {
+        border-left: none;
+        margin: -1px 20px 0 0; }
+      .navigation .primary-menu ul li.last a,
+      .navigation .second-menu ul li.last a {
+        border-right: none;
+        margin: -1px 0 0 20px; }
