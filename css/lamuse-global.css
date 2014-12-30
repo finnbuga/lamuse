@@ -47,7 +47,11 @@ h2 {
 * Cart block
 */
   .block-shopping-cart-block .content {
-    color: #E0575E; }
+    color: #E0575E; 
+    background-image: url("../images/glyphicons/png/glyphicons-203-shopping-cart.png");
+    background-size: 19px;
+    background-position: 1% 33%;
+    padding-left: 25px; }
     .block-shopping-cart-block .content .view-shopping-cart .view-content,
     .block-shopping-cart-block .content .view-shopping-cart .view-footer,
     .block-shopping-cart-block .content .view-shopping-cart .view-empty {
