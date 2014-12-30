@@ -3,12 +3,10 @@
 * 1. Global
 * --
 **************************************************/
+body {
+  font-family: "PT Sans", sans-serif; }
 h2 {
   font-size: 25px; }
-
-.block-title {
-  
-}
 
 /**************************************************
 * --
@@ -33,7 +31,7 @@ h2 {
       padding-bottom: 0; }
       .block-menu-user-menu .content ul.menu li a {
         color: #444444;
-        font-family: "Open Sans", sans-serif;
+        font-family: "PT Sans", sans-serif;
         font-weight: bold;
         border-style: none; }
         .block-menu-user-menu .content ul.menu li a.active {
@@ -53,7 +51,7 @@ h2 {
     .block-shopping-cart-block .content .view-shopping-cart .view-content,
     .block-shopping-cart-block .content .view-shopping-cart .view-footer,
     .block-shopping-cart-block .content .view-shopping-cart .view-empty {
-      font-family: "Open Sans", sans-serif;
+      font-family: "PT Sans", sans-serif;
       font-weight: bold; }
     .block-shopping-cart-block .content .view-shopping-cart .view-empty p {
       line-height: normal; 
@@ -66,13 +64,13 @@ h2 {
         padding: 5px 6px;}
       .block-shopping-cart-block .content .view-shopping-cart .line-item-summary .line-item-total {
         color: #E0575E;
-        font-family: "Open Sans", sans-serif;
+        font-family: "PT Sans", sans-serif;
         font-weight: bold;
         line-height: normal;
         padding: 5px 6px; }
       .block-shopping-cart-block .content .view-shopping-cart .line-item-summary ul.links {
         background-color: transparent;
-        font-family: "Open Sans", sans-serif;
+        font-family: "PT Sans", sans-serif;
         font-weight: bold;
         line-height: normal;
         margin: 0;
@@ -116,7 +114,7 @@ h2 {
         .navigation .primary-menu ul li a,
         .navigation .second-menu ul li a {
           display: block;
-          font-family: "Open Sans", sans-serif;
+          font-family: "PT Sans", sans-serif;
           font-weight: bold;
           background-color: transparent;
           border: none;
@@ -193,7 +191,7 @@ h2 {
     text-align: center; }
   .page-products .view-display-products li .content .field-name-commerce-price {
     color: #222222;
-    font-family: "Open Sans", sans-serif;
+    font-family: "PT Sans", sans-serif;
     font-size: 1em;
     font-weight: normal; }
 
