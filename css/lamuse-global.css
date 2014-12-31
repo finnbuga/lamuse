@@ -237,7 +237,8 @@ h2 {
 * 5.3. Product page
 **********************************************/
     .node-product-type .field-type-commerce-product-reference form.commerce-add-to-cart .form-submit {
-      font-size: 14px;
+      font-size: 13px;
+      letter-spacing: 1px;
       text-transform: uppercase;
       font-weight: bold;
       background: transparent;
@@ -249,7 +250,7 @@ h2 {
       color: #E0575E;
       padding: 10px 15px; }
       .node-product-type .field-type-commerce-product-reference form.commerce-add-to-cart .form-submit:hover {
-        background: #f0877c; }
+        background: #f0b0a0; }
 
 /**************************************************
 * --
@@ -264,7 +265,8 @@ h2 {
   .page-checkout #user-profile-form .form-submit,
   .page-checkout #user_login_form .form-submit,
   .page-checkout #user_pass_form .form-submit {
-    font-size: 14px;
+    font-size: 13px;
+    letter-spacing: 1px;
     text-transform: uppercase;
     font-weight: bold;
     background: transparent;
@@ -283,12 +285,13 @@ h2 {
     .page-checkout #user-profile-form .form-submit:hover,
     .page-checkout #user_login_form .form-submit:hover,
     .page-checkout #user_pass_form .form-submit:hover {
-      background: #f0877c; }
+      background: #f0b0a0; }
   .page-user a.login-register,
   .page-user a.login-account,
   .page-checkout a.login-register,
   .page-checkout a.login-account {
-    font-size: 14px;
+    font-size: 13px;
+    letter-spacing: 1px;
     text-transform: uppercase;
     font-weight: bold;
     background: transparent;
@@ -303,4 +306,4 @@ h2 {
     .page-user a.login-account:hover,
     .page-checkout a.login-register:hover,
     .page-checkout a.login-account:hover {
-      background: #f0877c; }
+      background: #f0b0a0; }
